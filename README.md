@@ -18,8 +18,6 @@ A simple and interactive **Rock Paper Scissors** game built with **React**. It a
 
 ![Game Screenshot](./screenshot.png)
 
-> *(Add a real screenshot of your app and rename it `screenshot.png` in the root folder.)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -46,7 +44,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/rock-paper-scissors.git
+git clone https://github.com/EimaneLassakeur/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
